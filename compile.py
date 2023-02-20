@@ -1,3 +1,5 @@
+#!/mnt/vg01/lv01/home/rkiesel/miniconda3/bin/python3.8
+
 import sys
 import tempfile
 import os
@@ -13,7 +15,7 @@ from aspmc.config import config
 
 config["decot"] = "10"
 
-logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+logging.basicConfig(stream=sys.stdout, level="DEBUG")
 logger = aspmc.main.logger
 logger.setLevel("DEBUG")
 
@@ -44,7 +46,7 @@ elif sys.argv[1] == "sharpsat-td":
     CNF.compile_single(cnf_tmp, knowledge_compiler="sharpsat-td")
     with open(cnf_tmp + ".nnf") as ddnnf:
         _, v, e, n = ddnnf.readline().split()
-        logger.debug(f"d-DNNF size: {v} nodes, {e} edges, {n} variables")
+        print(f"d-DNNF size: {v} nodes, {e} edges, {n} variables")
 
 
 os.remove(cnf_tmp)
