@@ -14471,18 +14471,18 @@
 						<measure name="instance" type="string" val="gh_23_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="9778.36"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.64"/>
 					</run>
 				</instance>
 				<instance id="15">
@@ -14495,18 +14495,18 @@
 						<measure name="instance" type="string" val="gh_24_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="18993.65"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1801.02"/>
 					</run>
 				</instance>
 				<instance id="8">
@@ -14545,18 +14545,18 @@
 						<measure name="instance" type="string" val="gh_25_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="17970.64"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.66"/>
 					</run>
 				</instance>
 				<instance id="23">
@@ -14647,18 +14647,18 @@
 						<measure name="instance" type="string" val="gh_19_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="14564.54"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.96"/>
 					</run>
 				</instance>
 				<instance id="20">
@@ -14741,6 +14741,8 @@
 				</instance>
 				<instance id="12">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="283852869"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="125969020"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -14749,7 +14751,7 @@
 						<measure name="instance" type="string" val="gh_21_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="6011.43"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solved" type="float" val="1"/>
@@ -14757,10 +14759,10 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="867.052"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="867.052"/>
 					</run>
 				</instance>
 				<instance id="6">
@@ -14903,18 +14905,18 @@
 						<measure name="instance" type="string" val="gh_22_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="18909.08"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.72"/>
 					</run>
 				</instance>
 				<instance id="22">
@@ -16945,18 +16947,18 @@
 						<measure name="instance" type="string" val="tree_60_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="635.08"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.23"/>
 					</run>
 				</instance>
 				<instance id="19">
@@ -16969,18 +16971,18 @@
 						<measure name="instance" type="string" val="tree_30_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="17371.4"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.46"/>
 					</run>
 				</instance>
 				<instance id="42">
@@ -16993,18 +16995,18 @@
 						<measure name="instance" type="string" val="tree_80_2.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16451.97"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.74"/>
 					</run>
 				</instance>
 				<instance id="28">
@@ -17017,18 +17019,18 @@
 						<measure name="instance" type="string" val="tree_50_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16487.15"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.59"/>
 					</run>
 				</instance>
 				<instance id="13">
@@ -17093,18 +17095,18 @@
 						<measure name="instance" type="string" val="tree_100_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1029.02"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.19"/>
 					</run>
 				</instance>
 				<instance id="18">
@@ -17117,18 +17119,18 @@
 						<measure name="instance" type="string" val="tree_30_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="8233.83"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.38"/>
 					</run>
 				</instance>
 				<instance id="35">
@@ -17141,18 +17143,18 @@
 						<measure name="instance" type="string" val="tree_60_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1050.42"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.25"/>
 					</run>
 				</instance>
 				<instance id="40">
@@ -17165,18 +17167,18 @@
 						<measure name="instance" type="string" val="tree_70_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1090.23"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.2"/>
 					</run>
 				</instance>
 				<instance id="38">
@@ -17189,18 +17191,18 @@
 						<measure name="instance" type="string" val="tree_70_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16821.92"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.76"/>
 					</run>
 				</instance>
 				<instance id="36">
@@ -17265,18 +17267,18 @@
 						<measure name="instance" type="string" val="tree_100_2.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16538.37"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.78"/>
 					</run>
 				</instance>
 				<instance id="48">
@@ -17289,18 +17291,18 @@
 						<measure name="instance" type="string" val="tree_90_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16580.31"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.59"/>
 					</run>
 				</instance>
 				<instance id="41">
@@ -17417,18 +17419,18 @@
 						<measure name="instance" type="string" val="tree_10_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="9536.63"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.5"/>
 					</run>
 				</instance>
 				<instance id="37">
@@ -17441,18 +17443,18 @@
 						<measure name="instance" type="string" val="tree_70_2.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16433.31"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.83"/>
 					</run>
 				</instance>
 				<instance id="33">
@@ -17465,18 +17467,18 @@
 						<measure name="instance" type="string" val="tree_60_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16573.51"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.84"/>
 					</run>
 				</instance>
 				<instance id="6">
@@ -17515,18 +17517,18 @@
 						<measure name="instance" type="string" val="tree_90_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1398.28"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.19"/>
 					</run>
 				</instance>
 				<instance id="12">
@@ -17565,18 +17567,18 @@
 						<measure name="instance" type="string" val="tree_20_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="4167.48"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.2"/>
 					</run>
 				</instance>
 				<instance id="11">
@@ -17641,18 +17643,18 @@
 						<measure name="instance" type="string" val="tree_80_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="908.73"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.25"/>
 					</run>
 				</instance>
 				<instance id="27">
@@ -17691,18 +17693,18 @@
 						<measure name="instance" type="string" val="tree_30_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1238.22"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.21"/>
 					</run>
 				</instance>
 				<instance id="21">
@@ -17741,18 +17743,18 @@
 						<measure name="instance" type="string" val="tree_90_2.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16496.6"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.65"/>
 					</run>
 				</instance>
 				<instance id="30">
@@ -17765,18 +17767,18 @@
 						<measure name="instance" type="string" val="tree_50_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1003.02"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.22"/>
 					</run>
 				</instance>
 				<instance id="15">
@@ -17789,18 +17791,18 @@
 						<measure name="instance" type="string" val="tree_20_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="410.66"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.19"/>
 					</run>
 				</instance>
 				<instance id="43">
@@ -17813,18 +17815,18 @@
 						<measure name="instance" type="string" val="tree_80_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="16574.77"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.56"/>
 					</run>
 				</instance>
 				<instance id="25">
@@ -17837,18 +17839,18 @@
 						<measure name="instance" type="string" val="tree_40_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="882.36"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.2"/>
 					</run>
 				</instance>
 			</class>
