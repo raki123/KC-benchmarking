@@ -75,6 +75,10 @@ for setting in settings:
     plt.plot(range(len(data)), data, label=setting)
 
 plt.legend(loc="upper left")
+plt.xlabel("number of instances")
+plt.ylabel("runtime in seconds")
+plt.ylim(0,1806)
+plt.xlim(0,len(data))
 plt.show()
 
 time_per_setting = { setting : [] for setting in settings }
