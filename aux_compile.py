@@ -33,8 +33,20 @@ if sys.argv[1] == "c2d":
     d3 = dtree.TD_dtree(cnf, solver = "flow-cutter", timeout = "10")
     d3.write(cnf_tmp + '.dtree')
     my_signals.tempfiles.add(cnf_tmp + '.dtree')
+    CNF.compile_single(cnf_tmp, knowledge_compiler="c2d")
+    with open(cnf_tmp + ".nnf") as ddnnf:
+        _, v, e, n = ddnnf.readline().split()
+        logger.debug(f"d-DNNF size: {v} nodes, {e} edges, {n} variables")
+    os.remove(cnf_tmp + ".dtree")
+    my_signals.tempfiles.remove(cnf_tmp + '.dtree')
+elif sys.argv[1] == "c2d-g":
+    with os.fdopen(cnf_fd, 'wb') as cnf_file:
+        cnf.to_stream(cnf_file)
+    d3 = dtree.TD_dtree(cnf, solver = "flow-cutter", timeout = "10")
+    d3.write(cnf_tmp + '.dtree')
+    my_signals.tempfiles.add(cnf_tmp + '.dtree')
     with open(cnf_tmp + ".exist", 'w') as exist_file:
-        exist_file.write(f"{len(self.auxilliary)} {' '.join( str(v) for v in self.auxilliary )}")
+        exist_file.write(f"{len(cnf.auxilliary)} {' '.join( str(v) for v in cnf.auxilliary )}")
     my_signals.tempfiles.add(cnf_tmp + '.exist')
     CNF.compile_single(cnf_tmp, knowledge_compiler="c2d")
     with open(cnf_tmp + ".nnf") as ddnnf:
