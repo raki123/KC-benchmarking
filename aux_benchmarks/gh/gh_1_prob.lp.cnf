@@ -1,0 +1,4 @@
+p cnf 0 0
+c p semirings aspmc.semirings.probabilistic 0
+c p quantify  0
+c p auxilliary  0
