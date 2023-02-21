@@ -10901,18 +10901,18 @@
 						<measure name="instance" type="string" val="gh_14_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="879.34"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.16"/>
 					</run>
 				</instance>
 				<instance id="24">
@@ -10951,18 +10951,18 @@
 						<measure name="instance" type="string" val="gh_23_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="942.38"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.16"/>
 					</run>
 				</instance>
 				<instance id="15">
@@ -10975,18 +10975,18 @@
 						<measure name="instance" type="string" val="gh_24_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="850.1"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.16"/>
 					</run>
 				</instance>
 				<instance id="8">
@@ -11025,18 +11025,18 @@
 						<measure name="instance" type="string" val="gh_25_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1525.24"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.17"/>
 					</run>
 				</instance>
 				<instance id="23">
@@ -11075,18 +11075,18 @@
 						<measure name="instance" type="string" val="gh_15_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="723.15"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.2"/>
 					</run>
 				</instance>
 				<instance id="7">
@@ -11099,18 +11099,18 @@
 						<measure name="instance" type="string" val="gh_17_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1105.85"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.18"/>
 					</run>
 				</instance>
 				<instance id="9">
@@ -11123,18 +11123,18 @@
 						<measure name="instance" type="string" val="gh_19_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1642.32"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.22"/>
 					</run>
 				</instance>
 				<instance id="20">
@@ -11225,18 +11225,18 @@
 						<measure name="instance" type="string" val="gh_21_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="833.98"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.15"/>
 					</run>
 				</instance>
 				<instance id="6">
@@ -11249,18 +11249,18 @@
 						<measure name="instance" type="string" val="gh_16_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="2833.59"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.39"/>
 					</run>
 				</instance>
 				<instance id="1">
@@ -11349,18 +11349,18 @@
 						<measure name="instance" type="string" val="gh_20_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="748.06"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.17"/>
 					</run>
 				</instance>
 				<instance id="13">
@@ -11373,18 +11373,18 @@
 						<measure name="instance" type="string" val="gh_22_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1256.29"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.19"/>
 					</run>
 				</instance>
 				<instance id="22">
@@ -12689,18 +12689,18 @@
 						<measure name="instance" type="string" val="smokers_15_5_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1721.02"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.21"/>
 					</run>
 				</instance>
 				<instance id="35">
@@ -13025,18 +13025,18 @@
 						<measure name="instance" type="string" val="smokers_14_5_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="514.22"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="c2d"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.27"/>
 					</run>
 				</instance>
 			</class>
@@ -14511,6 +14511,8 @@
 				</instance>
 				<instance id="8">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="58998132"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="27243971"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -14519,7 +14521,7 @@
 						<measure name="instance" type="string" val="gh_18_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1191.17"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solved" type="float" val="1"/>
@@ -14527,10 +14529,10 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="132.399"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="132.399"/>
 					</run>
 				</instance>
 				<instance id="16">
@@ -14559,6 +14561,8 @@
 				</instance>
 				<instance id="23">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="13697"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="6445"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -14567,7 +14571,7 @@
 						<measure name="instance" type="string" val="gh_8_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.7"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solved" type="float" val="1"/>
@@ -14575,64 +14579,68 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="11.3849"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="11.3849"/>
 					</run>
 				</instance>
 				<instance id="5">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="12493744"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="5780654"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_15_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_15_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="235.21"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="21.0598"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="21.0598"/>
 					</run>
 				</instance>
 				<instance id="7">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="570872537"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="240252874"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_17_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_17_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="10290.01"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="422.505"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="422.505"/>
 					</run>
 				</instance>
 				<instance id="9">
 					<run number="1">
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_19_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
@@ -14642,7 +14650,7 @@
 						<measure name="memusage" type="float" val="0"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
@@ -14681,56 +14689,60 @@
 				</instance>
 				<instance id="17">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="22"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="18"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_2_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_2_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.74"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="11.2251"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="11.2251"/>
 					</run>
 				</instance>
 				<instance id="18">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="84"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="52"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_3_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_3_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.42"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="10.9063"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="10.9063"/>
 					</run>
 				</instance>
 				<instance id="12">
 					<run number="1">
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_21_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
@@ -14740,7 +14752,7 @@
 						<measure name="memusage" type="float" val="0"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
@@ -14753,128 +14765,138 @@
 				</instance>
 				<instance id="6">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="157467711"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="68992243"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_16_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_16_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="2876.38"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="136.484"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="136.484"/>
 					</run>
 				</instance>
 				<instance id="1">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="482730"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="224196"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_11_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_11_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.69"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="11.6687"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="11.6687"/>
 					</run>
 				</instance>
 				<instance id="10">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="0"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="2"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_1_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_1_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.55"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1.14989"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="1.14989"/>
 					</run>
 				</instance>
 				<instance id="0">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="273945"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="128517"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_10_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_10_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.89"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="11.3748"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="11.3748"/>
 					</run>
 				</instance>
 				<instance id="11">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="294973822"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="137866186"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_20_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_20_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="5908.59"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="577.989"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="577.989"/>
 					</run>
 				</instance>
 				<instance id="13">
 					<run number="1">
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_22_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
@@ -14884,7 +14906,7 @@
 						<measure name="memusage" type="float" val="0"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
@@ -14897,26 +14919,28 @@
 				</instance>
 				<instance id="22">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="7462"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="3450"/>
 						<measure name="error" type="int" val="0"/>
-						<measure name="error_str" type="string" val="Did not finish."/>
+						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
 						<measure name="full_path" type="string" val="output/aux_compile/cobra/results/KC_aux/aux_compile-1.0-sharpsat-td-mfg/gh/gh_7_prob.lp.cnf/run1"/>
 						<measure name="hash" type="string" val="None"/>
 						<measure name="instance" type="string" val="gh_7_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="76.59"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="int" val="0"/>
+						<measure name="solved" type="float" val="1"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="11.0274"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="11.0274"/>
 					</run>
 				</instance>
 			</class>
@@ -16199,6 +16223,8 @@
 				</instance>
 				<instance id="23">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="181432872"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="75426369"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -16207,7 +16233,7 @@
 						<measure name="instance" type="string" val="smokers_15_5_prob.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="3585.14"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solved" type="float" val="1"/>
@@ -16215,10 +16241,10 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="427.056"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="427.056"/>
 					</run>
 				</instance>
 				<instance id="35">
@@ -16571,18 +16597,18 @@
 						<measure name="instance" type="string" val="tree_90_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1000.3"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.21"/>
 					</run>
 				</instance>
 				<instance id="29">
@@ -16595,18 +16621,18 @@
 						<measure name="instance" type="string" val="tree_50_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="8387.89"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.4"/>
 					</run>
 				</instance>
 				<instance id="39">
@@ -16619,18 +16645,18 @@
 						<measure name="instance" type="string" val="tree_70_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1666.49"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.23"/>
 					</run>
 				</instance>
 				<instance id="31">
@@ -16721,18 +16747,18 @@
 						<measure name="instance" type="string" val="tree_80_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1660.94"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.33"/>
 					</run>
 				</instance>
 				<instance id="2">
@@ -16745,18 +16771,18 @@
 						<measure name="instance" type="string" val="tree_100_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="8635.67"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.4"/>
 					</run>
 				</instance>
 				<instance id="4">
@@ -16769,18 +16795,18 @@
 						<measure name="instance" type="string" val="tree_100_5.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="1015.57"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.19"/>
 					</run>
 				</instance>
 				<instance id="32">
@@ -16871,18 +16897,18 @@
 						<measure name="instance" type="string" val="tree_40_3.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="17213.54"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.74"/>
 					</run>
 				</instance>
 				<instance id="24">
@@ -16895,18 +16921,18 @@
 						<measure name="instance" type="string" val="tree_40_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="4374.52"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
-						<measure name="solved" type="float" val="1"/>
+						<measure name="solved" type="int" val="0"/>
 						<measure name="solver" type="string" val="aux_compile"/>
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1800"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="wall" type="float" val="1800.17"/>
 					</run>
 				</instance>
 				<instance id="34">
@@ -17581,6 +17607,8 @@
 				</instance>
 				<instance id="9">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="247914117"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="107498737"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -17589,7 +17617,7 @@
 						<measure name="instance" type="string" val="tree_10_4.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="0"/>
+						<measure name="memusage" type="float" val="4060.76"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solved" type="float" val="1"/>
@@ -17597,10 +17625,10 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="640.51"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="0"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="640.51"/>
 					</run>
 				</instance>
 				<instance id="44">
