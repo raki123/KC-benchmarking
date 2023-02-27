@@ -15789,6 +15789,8 @@
 				</instance>
 				<instance id="33">
 					<run number="1">
+						<measure name="d-DNNF-size-edges" type="long" val="655"/>
+						<measure name="d-DNNF-size-nodes" type="long" val="527"/>
 						<measure name="error" type="int" val="0"/>
 						<measure name="error_str" type="string" val=""/>
 						<measure name="full_call" type="string" val="None"/>
@@ -15797,7 +15799,7 @@
 						<measure name="instance" type="string" val="smokers_5_3_prob.lp.lp.cnf"/>
 						<measure name="memerror" type="string" val="NA"/>
 						<measure name="memlimit" type="int" val="32000"/>
-						<measure name="memusage" type="float" val="76.36"/>
+						<measure name="memusage" type="float" val="75.76"/>
 						<measure name="run" type="int" val="0"/>
 						<measure name="setting" type="string" val="sharpsat-td"/>
 						<measure name="solved" type="float" val="1"/>
@@ -15805,10 +15807,10 @@
 						<measure name="solver_args" type="string" val="sharpsat-td"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1806"/>
+						<measure name="time" type="float" val="10.8174"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="1"/>
-						<measure name="wall" type="float" val="11.3772"/>
+						<measure name="timeout" type="float" val="0"/>
+						<measure name="wall" type="float" val="10.8174"/>
 					</run>
 				</instance>
 				<instance id="39">
