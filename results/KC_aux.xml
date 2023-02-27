@@ -5913,9 +5913,9 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-tdg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1637.73"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="1637.73"/>
 					</run>
 				</instance>
@@ -7019,9 +7019,9 @@
 						<measure name="solver_args" type="string" val="c2d-g"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="10.9727"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="10.9727"/>
 					</run>
 				</instance>
@@ -9251,7 +9251,7 @@
 						<measure name="solver_args" type="string" val="c2d-g"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1805"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
 						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="0"/>
@@ -15805,9 +15805,9 @@
 						<measure name="solver_args" type="string" val="sharpsat-td"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="11.3772"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="11.3772"/>
 					</run>
 				</instance>
@@ -19415,9 +19415,9 @@
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="10.9809"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="10.9809"/>
 					</run>
 				</instance>
@@ -19543,9 +19543,9 @@
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1550.86"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="1550.86"/>
 					</run>
 				</instance>
@@ -24269,9 +24269,9 @@
 						<measure name="solver_args" type="string" val="c2d"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1770.48"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="1770.48"/>
 					</run>
 				</instance>
@@ -30717,9 +30717,9 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1636.44"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="1636.44"/>
 					</run>
 				</instance>
@@ -30893,9 +30893,9 @@
 						<measure name="solver_args" type="string" val="sharpsat-td-mfg"/>
 						<measure name="solver_version" type="string" val="1.0"/>
 						<measure name="status" type="string" val="NA"/>
-						<measure name="time" type="float" val="1770.64"/>
+						<measure name="time" type="float" val="1806"/>
 						<measure name="timelimit" type="int" val="1800"/>
-						<measure name="timeout" type="float" val="0"/>
+						<measure name="timeout" type="float" val="1"/>
 						<measure name="wall" type="float" val="1770.64"/>
 					</run>
 				</instance>
