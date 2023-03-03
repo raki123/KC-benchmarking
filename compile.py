@@ -1,5 +1,3 @@
-#!/mnt/vg01/lv01/home/rkiesel/miniconda3/bin/python3.8
-
 import sys
 import tempfile
 import os
@@ -15,7 +13,7 @@ import aspmc.main
 
 from aspmc.config import config
 
-config["decot"] = "10"
+config["decot"] = "1"
 
 logging.basicConfig(stream=sys.stdout, level="DEBUG")
 logger = aspmc.main.logger

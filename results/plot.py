@@ -35,7 +35,13 @@ LABEL_SIZE = 12
 class Instance(object):
     pass
 
-
+setting_to_label = { 
+                        "c2d" : "c2d", 
+                        "d4" : "d4",
+                        "sharpsat-td" : "sharpSAT-TD",
+                        "sharpsat-td-mfg" : u"\u2203sharpSAT-TD",
+                        "c2d-g" : u"\u2203c2d"
+                    }
 instances_per_setting = {}
 results_file = "KC_basic.xml"
 tree = ET.parse(results_file)
@@ -59,8 +65,13 @@ for spec in root.find('project').findall('runspec'):
                     instance.nodes = int(run.find('.//measure[@name="d-DNNF-size-nodes"]').get('val'))
                 except:
                     try:
-                        instance.edges = int(run.find('.//measure[@name="d-DNNF-size-edges_dfour"]').get('val'))
-                        instance.nodes = int(run.find('.//measure[@name="d-DNNF-size-nodes_dfour"]').get('val'))
+                        cnt = int(run.find('.//measure[@name="unsat_dfour"]').get('val'))
+                        if cnt == 0:
+                            instance.edges = 0
+                            instance.nodes = 0
+                        else:
+                            instance.edges = int(run.find('.//measure[@name="d-DNNF-size-edges_dfour"]').get('val'))
+                            instance.nodes = int(run.find('.//measure[@name="d-DNNF-size-nodes_dfour"]').get('val'))
                     except:
                         instance.edges = 10**10
                         instance.nodes = 10**10
@@ -72,14 +83,15 @@ for setting in settings:
     for instance in instances_per_setting[setting]:
         data.append(instance.time)
     data.sort()
-    plt.plot(range(len(data)), data, label=setting)
+    plt.plot(range(len(data)), data, label=setting_to_label[setting])
 
 plt.legend(loc="upper left")
 plt.xlabel("number of instances")
 plt.ylabel("runtime in seconds")
 plt.ylim(0,1806)
-plt.xlim(0,len(data))
-plt.show()
+plt.xlim(1000,1750)
+plt.savefig("plots/overall.pdf")
+MatplotlibClearMemory()
 
 time_per_setting = { setting : [] for setting in settings }
 size_per_setting = { setting : [] for setting in settings }
@@ -94,22 +106,25 @@ for setting in settings:
 
 
 for setting in settings:
-    if setting != "sharpsat-td":
-        plt.plot([0.5,1806], [0.5,1806], color="red")
-        plt.scatter(time_per_setting[setting], time_per_setting["sharpsat-td"], color="blue")
-        plt.xlabel(setting)
-        plt.ylabel("sharpsat-td")
-        plt.yscale('log')
-        plt.xscale('log')
-        plt.ylim(0.5,1806)
-        plt.xlim(0.5,1806)
-        plt.show()
-        plt.plot([1,10**10], [1,10**10], color="red")
-        plt.scatter(size_per_setting[setting], size_per_setting["sharpsat-td"], color="blue")
-        plt.xlabel(setting)
-        plt.ylabel("sharpsat-td")
-        plt.yscale('log')
-        plt.xscale('log')
-        plt.ylim(1,10**10)
-        plt.xlim(1,10**10)
-        plt.show()
+    for setting2 in settings:
+        if setting != setting2:
+            plt.plot([0.5,1806], [0.5,1806], color="red")
+            plt.scatter(time_per_setting[setting], time_per_setting[setting2], s=1, color="blue")
+            plt.xlabel(setting_to_label[setting])
+            plt.ylabel(setting_to_label[setting2])
+            plt.yscale('log')
+            plt.xscale('log')
+            plt.ylim(0.5,1806)
+            plt.xlim(0.5,1806)
+            plt.savefig(f"plots/scatter_time_{setting}_{setting2}.pdf")
+            MatplotlibClearMemory()
+            plt.plot([1,10**10], [1,10**10], color="red")
+            plt.scatter(size_per_setting[setting], size_per_setting[setting2], s=1, color="blue")
+            plt.xlabel(setting_to_label[setting])
+            plt.ylabel(setting_to_label[setting2])
+            plt.yscale('log')
+            plt.xscale('log')
+            plt.ylim(1,10**10)
+            plt.xlim(1,10**10)
+            plt.savefig(f"plots/scatter_size_{setting}_{setting2}.pdf")
+            MatplotlibClearMemory()
