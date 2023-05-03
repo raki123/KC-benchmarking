@@ -1,20 +1,15 @@
 #!/usr/bin/env python3
-from operator import mod
 import matplotlib
-import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import xml.etree.ElementTree as ET
 
 def MatplotlibClearMemory():
-    #usedbackend = matplotlib.get_backend()
-    #matplotlib.use('Cairo')
     allfignums = matplotlib.pyplot.get_fignums()
     for i in allfignums:
         fig = matplotlib.pyplot.figure(i)
         fig.clear()
-        matplotlib.pyplot.close( fig )
-    #matplotlib.use(usedbackend) 
+        matplotlib.pyplot.close(fig)
 
 
 paperheight = 11.7
@@ -26,11 +21,15 @@ fig_height = fig_width/golden
 
 #labels
 TIME_LABEL = "runtime in seconds"
-INSTANCES_LABEL = "number of instances solved"
-XWIDTH_LABEL = "X-width"
-XDWIDTH_LABEL = "X/D-width"
-LABEL_SIZE = 12
+INSTANCES_LABEL = "number of instances"
+# LABEL_SIZE = 12
 
+import os
+folders = [ "plots" ]
+
+for folder in folders:
+    if not os.path.exists(folder):
+        os.mkdir(folder)
 
 class Instance(object):
     pass
@@ -38,9 +37,7 @@ class Instance(object):
 setting_to_label = { 
                         "c2d" : "c2d", 
                         "d4" : "d4",
-                        "sharpsat-td" : "sharpSAT-TD",
-                        "sharpsat-td-mfg" : u"\u2203sharpSAT-TD",
-                        "c2d-g" : u"\u2203c2d"
+                        "sharpsat-td" : "sharpSAT-TD"
                     }
 instances_per_setting = {}
 results_file = "KC_basic.xml"
@@ -84,10 +81,11 @@ for setting in settings:
         data.append(instance.time)
     data.sort()
     plt.plot(range(len(data)), data, label=setting_to_label[setting])
+    print(sum(1 for t in data if t < 1800), setting)
 
 plt.legend(loc="upper left")
-plt.xlabel("number of instances")
-plt.ylabel("runtime in seconds")
+plt.xlabel(INSTANCES_LABEL)
+plt.ylabel(TIME_LABEL)
 plt.ylim(0,1806)
 plt.xlim(1000,1750)
 plt.savefig("plots/overall.pdf")
