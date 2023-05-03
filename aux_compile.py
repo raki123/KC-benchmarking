@@ -1,13 +1,10 @@
-#!/mnt/vg01/lv01/home/rkiesel/miniconda3/bin/python3.8
-
+#!/usr/bin/env python3
 import sys
 import tempfile
 import os
 import logging
-import psutil
-import subprocess
 
-from aspmc.compile.cnf import CNF, src_path
+from aspmc.compile.cnf import CNF
 import aspmc.compile.dtree as dtree
 
 import aspmc.signal_handling as my_signals
@@ -71,25 +68,7 @@ elif sys.argv[1] == "sharpsat-td-mfg":
     with open(cnf_tmp + ".nnf") as ddnnf:
         _, v, e, n = ddnnf.readline().split()
         print(f"d-DNNF size: {v} nodes, {e} edges, {n} variables")
-elif sys.argv[1] == "sharpsat-td-tdg":
-    with os.fdopen(cnf_fd, 'wb') as cnf_file:
-        cnf.write_kc_cnf(cnf_file)
-    available_memory = max(psutil.virtual_memory().available//1024**2 - 125, 1000)
-    decot = 10
-    p = subprocess.Popen(["./sharpSAT_EG", "-dDNNF", "-decot", str(decot), "-decow", "10000", "-cs", str(available_memory//2), cnf_tmp, "-dDNNF_out", cnf_tmp + ".nnf"], cwd=os.path.join(src_path, "sharpsat-td/bin/"), stdout=subprocess.PIPE)
-    for line in iter(p.stdout.readline, b''):
-        line = line.decode()
-        print(line[:-1])
-    p.wait()
-    p.stdout.close()
 
-    if p.returncode != 0:
-        logger.error(f"Knowledge compilation failed with exit code {p.returncode}.")
-        exit(-1) 
-
-    with open(cnf_tmp + ".nnf") as ddnnf:
-        _, v, e, n = ddnnf.readline().split()
-        print(f"d-DNNF size: {v} nodes, {e} edges, {n} variables")
 
 
 os.remove(cnf_tmp)
